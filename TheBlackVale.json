@@ -1,6 +1,6 @@
 {
 	"Name": "The Black Vale - Main Seasons",
-	"Version": 1776732711,
+	"Version": 1778559362,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -229,7 +229,6 @@
 				"151",
 				"204",
 				"272",
-				"220",
 				"298",
 				"230",
 				"234",
@@ -552,7 +551,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -627,7 +628,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1623,11 +1626,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2878,7 +2881,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
