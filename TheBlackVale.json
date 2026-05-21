@@ -1,6 +1,6 @@
 {
 	"Name": "The Black Vale - Main Seasons",
-	"Version": 1779336731,
+	"Version": 1779354475,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2872,11 +2872,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				1
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				1
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2904,7 +2904,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2920,8 +2920,9 @@
 				},
 				"Med-Kit": {
 					"Addons": [
-						10,
-						11
+						0,
+						1,
+						2
 					]
 				},
 				"Toolbox": {
