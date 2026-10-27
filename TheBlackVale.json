@@ -1,6 +1,6 @@
 {
 	"Name": "The Black Vale - Main Seasons",
-	"Version": 1792972462,
+	"Version": 1793059180,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -306,11 +306,13 @@
 				"279",
 				"43",
 				"261",
+				"308",
 				"57",
 				"61",
 				"76",
 				"80",
 				"96",
+				"296",
 				"92",
 				"102",
 				"105",
@@ -1179,7 +1181,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1198,7 +1200,8 @@
 				"39",
 				"279",
 				"57",
-				"76"
+				"76",
+				"296"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1284,7 +1287,8 @@
 				"58",
 				"63",
 				"76",
-				"82"
+				"82",
+				"296"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2302,7 +2306,8 @@
 				"279",
 				"43",
 				"57",
-				"76"
+				"76",
+				"296"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
