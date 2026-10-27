@@ -1,6 +1,6 @@
 {
 	"Name": "The Black Vale - Main Seasons",
-	"Version": 1793059180,
+	"Version": 1793083985,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -212,6 +212,18 @@
 					"178",
 					"181",
 					"184"
+				],
+				[
+					"317",
+					"160",
+					"224",
+					"220"
+				],
+				[
+					"317",
+					"160",
+					"220",
+					"210"
 				]
 			]
 		},
