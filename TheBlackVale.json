@@ -1,6 +1,6 @@
 {
 	"Name": "The Black Vale - Main Seasons",
-	"Version": 1793083985,
+	"Version": 1793173634,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -321,6 +321,7 @@
 				"308",
 				"57",
 				"61",
+				"65",
 				"76",
 				"80",
 				"96",
@@ -329,10 +330,10 @@
 				"102",
 				"105",
 				"110",
-				"112",
 				"113",
 				"253",
 				"121",
+				"124",
 				"127",
 				"36"
 			],
@@ -416,7 +417,6 @@
 				"27",
 				"286",
 				"34",
-				"37",
 				"38",
 				"39",
 				"279",
@@ -1213,7 +1213,9 @@
 				"279",
 				"57",
 				"76",
-				"296"
+				"296",
+				"92",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1228,8 +1230,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				7
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1244,11 +1245,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1300,7 +1297,9 @@
 				"63",
 				"76",
 				"82",
-				"296"
+				"296",
+				"92",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2317,9 +2316,13 @@
 				"39",
 				"279",
 				"43",
+				"308",
 				"57",
+				"65",
 				"76",
-				"296"
+				"296",
+				"92",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2335,8 +2338,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				7
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2351,11 +2353,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
